@@ -1,0 +1,88 @@
+.head li{
+    list-style-type: none;
+    display: inline;
+    color: deep rgb(17, 17, 61);
+    margin: 3px;
+}
+ul{
+    height: 20px;
+    width: 70%;
+    padding: 20px;
+    font-size: 10px;
+}
+ul li:nth-child(8){
+    margin-right: 80px;
+    background-color: rgb(238, 71, 71);
+    border-radius: 100px;
+    padding: 10px;
+}
+ul li:nth-child(1){
+    margin-right: 50px;
+    text-transform: uppercase;
+}
+ul li:nth-child(7){
+    margin-left: 80px;
+}
+ul li:nth-child(6){
+    margin-left: 2px;
+}
+.neck{
+    background-color: rgb(150, 141, 235);
+    height: 250px;
+    width: 65%;
+    padding-top: 0px;
+    margin-top: -67px;
+}
+h1{
+    color: rgb(247, 236, 236);
+    text-align: center;
+    margin-top: 50px ;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+p{
+    text-align: center;
+    color: rgb(250, 244, 244);
+}
+.form{
+    padding: 10px 10px;
+    width: 30%;
+    margin-top: -90px;
+    background-color: rgb(215, 231, 198);
+    margin-left: 140px;
+    margin-bottom: 2px;
+    height: 170px;
+}
+p{
+    font-size: 15px;
+    color: black;
+}
+.form input[type=text], .form[type=text]{
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 50%;
+}
+.shoulder{
+    color: black;
+    background-color: rgb(231, 229, 240);
+    height: 150px;
+    width: 20%;
+    box-shadow: 10px 10px 0px 1px  rgb(150, 141, 235);
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 30px;
+    border: 2px solid gray;
+}
+p{
+    color: black;
+    font-size: 10px;
+}
+h3{
+    color: rgb(34, 30, 30);
+    font-size: 15px;
+    text-align: center;
+}
+.arm h2{
+    margin-right: 40px;
+}
